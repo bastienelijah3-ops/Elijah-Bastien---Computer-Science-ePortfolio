@@ -43,4 +43,4 @@ The primary technical challenges involved managing Android lifecycle states and 
 
 ## Artifact Downloads & Source Code
 
-* **Complete Enhanced Android Project:** [`ElijahsWeightTrackerApp_Enhanced.zip`](../assets/docs/ElijahsWeightTrackerApp_EnhancedAlgorithims.zip)
+**Complete Enhanced Package:** [`ElijahsWeightTrackerApp_EnhancedAlgorithms.zip`](../assets/docs/ElijahsWeightTrackerApp_EnhancedAlgorithms.zip)
