@@ -34,4 +34,4 @@ I gained deeper practical insight into local SQLite database management, reactiv
 
 ## Artifact Source Code & Downloads
 
-* **Complete Enhanced Application Package:** [`ElijahsWeightTrackerApp_EnhancedDatabases.zip`](../assets/docs/ElijahsWeightTrackerApp_EnhancedDatabases.zip)
+* **Complete Enhanced Application Package:** [`ElijahsWeightTrackerApp_EnhancedDatabases.zip`](../assets/docs/ElijahsWeightTrackerApp_EnhancedDatabases.zip?raw=true))
