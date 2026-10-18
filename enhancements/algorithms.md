@@ -1,4 +1,4 @@
-# Category Enhancement 1: Algorithms
+# Category Enhancement 2: Algorithms and Data Structure
 
 [Back to Home](../README.md)
 
