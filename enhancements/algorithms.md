@@ -40,3 +40,7 @@ The primary technical challenges involved managing Android lifecycle states and 
 | **Architecture Pattern** | MVVM Pattern with `ViewModel` and `LiveData` Observers |
 | **Data Repository** | Single Source of Truth managing asynchronous `ExecutorService` tasks |
 | **UI Components** | Refactored `MainActivity` & `DashboardActivity` adhering to clean UI/UX guidelines |
+
+## Artifact Downloads & Source Code
+
+* **Complete Enhanced Android Project:** [`ElijahsWeightTrackerApp_Enhanced.zip`](../assets/docs/ElijahsWeightTrackerApp_EnhancedAlgorithims.zip)
