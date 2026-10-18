@@ -22,9 +22,6 @@ I gained deeper practical insight into local SQLite database management, reactiv
 
 ---
 
-## Artifact Source Code & Downloads
-
-* **Complete Enhanced Application Package:** [`ElijahsWeightTrackerApp_EnhancedDatabases.zip`](../assets/docs/ElijahsWeightTrackerApp_EnhancedDatabases.zip)
 
 ### Primary Database Implementation Files
 
@@ -34,3 +31,7 @@ I gained deeper practical insight into local SQLite database management, reactiv
 | **User DAO** | Data Access Object for user accounts and goal records (`UserDao.java`) |
 | **Weight DAO** | Data Access Object for historical entries and queries (`WeightDao.java`) |
 | **Relational Schemas** | Entity mappings for persistent local data (`UserEntity.java` & `WeightEntry.java`) |
+
+## Artifact Source Code & Downloads
+
+* **Complete Enhanced Application Package:** [`ElijahsWeightTrackerApp_EnhancedDatabases.zip`](../assets/docs/ElijahsWeightTrackerApp_EnhancedDatabases.zip)
