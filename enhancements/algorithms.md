@@ -27,4 +27,4 @@ Reflecting on the enhancement process, I gained valuable hands-on experience tro
 
 ## Artifact Source Code & Downloads
 
-* **Complete Enhanced Application Package:** [`ElijahsWeightTrackerApp_EnhancedAlgorithms.zip`](../assets/docs/ElijahsWeightTrackerApp_EnhancedAlgorithms.zip?raw=true))
+* **Complete Enhanced Application Package:** [`ElijahsWeightTrackerApp_EnhancedAlgorithms.zip`](https://github.com/bastienelijah3-ops/Elijah-Bastien---Computer-Science-ePortfolio/releases/download/v1.0/ElijahsWeightTrackerApp_EnhancedAlgorithms.zip.zip)
